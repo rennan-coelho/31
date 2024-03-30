@@ -29,7 +29,7 @@ var config = {
         bannar_coming: "e sim, é aquela música",
         balloons_flying: "uma surpresinha...",
         cake_fadein: "acho que merece um bolo",
-        light_candle: "acenda a vela, por favor",
+        light_candle: "acenda a vela",
         wish_message: "até que ficou legal né?",
         story: "umas palavrinhas...",
     }
